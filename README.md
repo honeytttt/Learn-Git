@@ -1,2 +1,2 @@
 # Learn-Git
-Learning git 
+Learning git and git hub  
