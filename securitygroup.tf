@@ -1,5 +1,7 @@
 provider "aws" {
 
+region = "ap-southeast-1"
+
 }
 
 resource "aws_security_group" "allow_http" {
